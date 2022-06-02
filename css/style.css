@@ -400,3 +400,10 @@ footer > p{
         margin: 0px 10px;
     }
 }
+
+@media screen and (max-width: 450px){
+    section.gray-wolf div.quote p{
+        font-size: 1.1em;
+        width: 100%;
+    }
+}
