@@ -366,6 +366,10 @@ footer > p{
         font-size: 3em;
     }
 
+    .padding-text{
+        text-align: justify;
+    }
+
     section.gray-wolf img.wolf1, .stretch, section.gray-wolf img.wolf2, section.gray-wolf div.know-more, .padding-text{
         grid-column: 1 / 3;
     }
