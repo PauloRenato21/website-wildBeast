@@ -360,6 +360,10 @@ footer > p{
     header nav{
         width: 400px;
     }
+
+    section.gray-wolf div.quote{
+        padding: 20px;
+    }
 }
 @media screen and (max-width: 600px){
     section.gray-wolf div.name-family h1{
